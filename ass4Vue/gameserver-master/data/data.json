@@ -1,0 +1,108 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "secret",
+      "id": 0,
+      "admin": true
+    },
+    {
+      "username": "user2@user.com",
+      "password": "123",
+      "id": 1,
+      "admin": false
+    },
+    {
+      "username": "UserAdmin",
+      "password": "PassAdmin",
+      "id": 2,
+      "admin": false
+    },
+    {
+      "username": "65747",
+      "password": "rejufdj",
+      "id": 3,
+      "admin": false
+    },
+    {
+      "username": "fggfgf",
+      "password": "gfgffg",
+      "id": 4,
+      "admin": false
+    },
+    {
+      "username": "UserAdmingfgfgf",
+      "password": "PassAdmin",
+      "id": 5,
+      "admin": false
+    },
+    {
+      "username": "UserAdminfffd",
+      "password": "PassAdmin",
+      "id": 6,
+      "admin": false
+    },
+    {
+      "username": "mark",
+      "password": "mark",
+      "id": 7,
+      "admin": false
+    },
+    {
+      "username": "Usertis",
+      "password": "tis",
+      "id": 8,
+      "admin": false
+    },
+    {
+      "username": "tislis",
+      "password": "tis",
+      "id": 9,
+      "admin": false
+    }
+  ],
+  "games": [
+    {
+      "user": 1,
+      "id": 1,
+      "score": 0,
+      "completed": false
+    },
+    {
+      "user": 1,
+      "id": 2,
+      "score": 0,
+      "completed": false
+    },
+    {
+      "user": 1,
+      "id": 3,
+      "score": 0,
+      "completed": false
+    },
+    {
+      "user": 1,
+      "id": 4,
+      "score": 0,
+      "completed": false
+    },
+    {
+      "user": 1,
+      "id": 5,
+      "score": 0,
+      "completed": false
+    },
+    {
+      "user": 1,
+      "id": 6,
+      "score": 0,
+      "completed": false
+    },
+    {
+      "user": 1,
+      "id": 7,
+      "score": 0,
+      "completed": false
+    }
+  ]
+}
